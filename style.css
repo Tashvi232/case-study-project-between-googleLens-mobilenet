@@ -1,0 +1,54 @@
+body{
+  text-align: center;
+}
+img{
+  width: 150px;
+}
+
+.test_image_and_result{
+    background-color:rgb(133, 120, 120);
+    box-shadow:5px 5px 18px grey;
+    width:800px;
+    height: 420px;
+    text-align: left;
+    border-radius: 25px;
+  margin-left: 10px;
+  color: white;
+  
+}
+
+.img-responsive{
+  height: 330px;
+  width: 200;
+  border-radius: 20px;
+  padding-top: 5px;
+}
+
+#mb_result{
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 250px;
+  height: 15px;
+  padding-right: 5px;
+}
+
+#gl_result{
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  width: 250px;
+  padding-left: 5px;
+}
+
+#square{
+  height: 230px;
+  width: 230px;
+  border-radius: 20px;
+}
+
+#rectangle{
+  height: 180px;
+  width: 240px;
+  border-radius: 20px;
+}
